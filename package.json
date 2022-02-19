@@ -1,0 +1,43 @@
+{
+  "name": "pancakeswap-liquidity-sniper",
+  "version": "1.0.0",
+  "description": "Pancakewap Liquidity Sniper",
+  "main": "run.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "TAGURO",
+  "license": "ISC",
+  "dependencies": {
+    "@ethereumjs/tx": "^3.4.0",
+    "@pancakeswap-libs/sdk-v2": "^2.2.0",
+    "axios": "^0.19.2",
+    "bignumber.js": "^9.0.1",
+    "bootstrap": "4.3.1",
+    "canoe-solidity": "^0.1.0",
+    "console.table": "^0.10.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^2.5.6",
+    "ethereum-input-data-decoder": "^0.3.5",
+    "ethereumjs-tx": "1.3.7",
+    "ethers": "^5.5.2",
+    "express": "^4.15.2",
+    "infura-web3-provider": "0.0.3",
+    "lodash": "^4.17.15",
+    "log-update": "^5.0.0",
+    "moment": "^2.25.3",
+    "moment-timezone": "^0.5.28",
+    "numeral": "^2.0.6",
+    "pkg": "^5.5.2",
+    "press-any-key": "^0.1.1",
+    "react": "16.8.4",
+    "react-bootstrap": "1.0.0-beta.5",
+    "react-dom": "16.8.4",
+    "react-scripts": "2.1.3",
+    "request-promise-native": "^1.0.9",
+    "truffle": "5.0.5",
+    "w3c-xmlhttprequest": "^3.0.4",
+    "web3": "1.2.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
