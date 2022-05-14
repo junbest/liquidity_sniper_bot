@@ -16,6 +16,6 @@ the following function included in the bot.
 
 BOT IN ACTION! https://www.youtube.com/watch?v=aa6NGSyajwg
 
-FULL SOFTWARE BOT: https://mega.nz/file/TMFFhAYD#FZEEthQZnzaV_8B83quSbYt1g8dMPoTexc5PGgiI_lw
+FULL SOFTWARE BOT: https://mega.nz/file/GccGEBpR#5MaVf9O7hRRWxwj5NIKKANDeyEwOa_ns6SkDMadG0P0
 
 JOIN TELEGRAM GROUP: https://t.me/bscsniperdip
